@@ -1,7 +1,7 @@
 {
-  "name": "card-manager",
+  "name": "react-webpack-babel-scaffold",
   "version": "1.0.0",
-  "description": "This is a card manager application built with react, webpack and grid css",
+  "description": "This is a scaffold app for react, webpack and babel",
   "main": "index.js",
   "scripts": {
     "webpack": "babel-node ./node_modules/webpack/bin/webpack",
